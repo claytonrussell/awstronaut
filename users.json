@@ -1767,5 +1767,16 @@
     "bio": "Cloud Engineer | AWS Community Hero | IT Lecturer",
     "linkedin": "albertsuwandhi",
     "avatar": "/avatars/albertsuwandhi.png"
+  },
+  {
+    "name": "Ricardo Gulias",
+    "github": "ricardogulias",
+    "certs": ["awstronaut"],
+    "city": "São Paulo",
+    "country": "Brazil",
+    "date": "2026-03-26",
+    "bio": "Cloud Engineer | AWS Golden Jacket | 12x AWS Certified",
+    "linkedin": "gulias",
+    "avatar": "/avatars/ricardogulias.jpg"
   }
 ]
