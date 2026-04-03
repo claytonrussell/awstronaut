@@ -1801,7 +1801,7 @@
   "website": "https://ccbuilds.vercel.app/",
   "avatar": "/avatars/christina_chen.jpeg"
 },
-  {
+{
     "name": "Erick Mancz",
     "github": "erickmancz",
     "certs": ["awstronaut"],
@@ -1812,5 +1812,5 @@
     "linkedin": "erick-mancz",
     "website": "https://medium.com/@erickmancz",
     "avatar": "/avatars/erickmancz.jpg"
-  }
+}
 ]
