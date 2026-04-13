@@ -1812,5 +1812,17 @@
     "linkedin": "erick-mancz",
     "website": "https://medium.com/@erickmancz",
     "avatar": "/avatars/erickmancz.jpg"
+},
+	{
+    "name": "Ankit Saxena",
+    "github": "ankitdeepsaxena",
+    "certs": ["awstronaut"],
+    "city": "Mexico City",
+    "country": "Mexico",
+    "date": "2025-03-25",
+    "bio": "AWS Golden Jacket | Cloud Architect | Driving outcomes through deep technical expertise, leading teams, and simplifying complex architectures",
+    "linkedin": "ankit-saxena-28557366",
+    "website": "https://medium.com/@ankit-saxena",
+    "avatar": "/avatars/ankitsaxena.jpg"
 }
 ]
