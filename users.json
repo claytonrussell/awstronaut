@@ -1463,18 +1463,16 @@
     "website": "",
     "avatar": "/avatars/Henrik_Melkonyan.jpg"
   },
-{
-  "name": "YMohsin Khan",
-  "github": "mohsin-akhan",
-  "certs": ["awstronaut"],
-  "city": "Manchester",
-  "country": "United Kingdom",
-  "date": "2024-10-07",
-  "bio": "AWS Solutions Architect",
-  "linkedin": "mohsinkhann",
-  "website": "https://mohsinkhan.me/",
-  "avatar": "/avatars/mohsinkhan.png"
-}
-
+  {
+	"name": "YMohsin Khan",
+	"github": "mohsin-akhan",
+  	"certs": ["awstronaut"],
+  	"city": "Manchester",
+  	"country": "United Kingdom",
+ 	"date": "2024-10-07",
+ 	"bio": "AWS Solutions Architect",
+  	"linkedin": "mohsinkhann",
+  	"website": "https://mohsinkhan.me/"
+  }
 ]
 
