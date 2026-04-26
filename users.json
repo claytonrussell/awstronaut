@@ -1848,7 +1848,7 @@
   	"website": "https://mohsinkhan.me/",
 	  "avatar": "/avatars/mohsinkhan.png"
   },
-   {
+  {
     "name": "Mayank Sharma",
     "github": "mayank0202",
     "certs": ["awstronaut"],
@@ -1859,5 +1859,19 @@
     "linkedin": "mayank-sharma-a1a802171",
     "website": "https://medium.com/@mayank2299",
     "avatar": "/avatars/mayank-photo.jpg"
+  },
+  {
+    "name": "Shamnad Shaji",
+    "github": "shamnadps",
+    "certs": [
+      "awstronaut"
+    ],
+    "bio": "Senior Software Engineer | 12 x AWS Certified🧥 | 12 x Google Certified | AWS Community Builder | 5x Microsoft Certified |  KCNA | JLPT N5",
+    "city": "Helsinki",
+    "country": "Finland",
+    "date": "2024-10-24",
+    "linkedin": "shamnadshaji",
+    "website": "",
+    "avatar": "/avatars/shamnad.png"
   }
 ]
